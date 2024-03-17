@@ -9,7 +9,6 @@ import os
 features = []
 headers = []
 
-final_report = "a.txt"
 section_list_size = 0
 
 
